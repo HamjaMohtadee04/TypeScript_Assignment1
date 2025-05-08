@@ -7,14 +7,15 @@ TypeScript is an object-oriented programming language that is built on top of Ja
 - JavaScript is a dynamically typed language.
 - We can store many data kinds in a single variable, such as a function, number, or object.
 
-```Ts
-// JavaScript example
+```
+// Js
 let a = 10;         // a is a number
 a = "abc";          // now a is a string
 a = function() {};  // now a is a function
 // No error in JavaScript
 ```
-```Ts
+```
+//Ts
 let a: number = 10;
 a = "abc";         //  Error: Type 'string' is not assignable to type 'number'
 a = function() {}; //  Error: Type '() => void' is not assignable to type 'number'
