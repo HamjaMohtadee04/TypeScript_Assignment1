@@ -54,7 +54,7 @@ While JavaScript is powerful, it has several limitations, especially for large-s
 
 ---
 
-##  What is Type Inference in TypeScript? Why is it helpful?
+## Q:2  What is Type Inference in TypeScript? Why is it helpful?
 
 **Type inference** means TypeScript automatically figures out the type of a variable even when you don’t explicitly declare it.
 
@@ -114,5 +114,5 @@ const admin: AdminUser = {
 ```
 
 
-
+## Please open .module1/src/Assignment.ts for access all problems code.
 ---
